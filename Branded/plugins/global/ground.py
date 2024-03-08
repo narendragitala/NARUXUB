@@ -1,4 +1,4 @@
-# Powered By // @BRANDED_PAID_CC //
+# Powered By // @ALL_ABOUT_NARU //
 
 __NAME__ = "Global"
 __MENU__ = """
