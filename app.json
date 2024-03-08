@@ -1,14 +1,14 @@
 {
-    "name": "Branded-Userbot",
-    "description": "Branded-Userbot is an advanced & powerful multi-featured Telegram userbot.",
-    "logo": "https://te.legra.ph/file/11cfa74175b590014bd16.jpg",
+    "name": "𝗡𝗔𝗥𝗨𝗝𝗔𝗔𝗧-Userbot",
+    "description": "𝗡𝗔𝗥𝗨𝗝𝗔𝗔𝗧 is an advanced & powerful multi-featured Telegram userbot.",
+    "logo": "https://telegra.ph/file/835457902b5ddcc82a124.jpg",
     "keywords": [
         "genius-userbot",
         "telegram-userbot",
         "telegram-music-bot",
         "telegram-video-bot"
     ],
-    "repository": "https://github.com/WCGKING/KINGUSERBOT",
+    "repository": "https://github.com/narendragitala/NARUXUB",
     "stack": "container",
     "env": {
         "API_ID": {
