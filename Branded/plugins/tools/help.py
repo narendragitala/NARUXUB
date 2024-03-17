@@ -62,7 +62,7 @@ Branded Userbot » {__version__} ✨...
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [Branded](https://t.me/BRANDED_PAID_CC).**
+🌷Powered By : [NARU](https://t.me/ALL_ABOUT_NARU).**
 """
     
     if plug_match:
