@@ -26,7 +26,7 @@ Narujaat Userbot » {__version__} ✨...
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [Branded](https://t.me/ALL_ABOUT_NARU).**
+🌷Powered By : [NARUJAAT](https://t.me/ALL_ABOUT_NARU).**
             """,
             reply_markup=InlineKeyboardMarkup(button),
         )
@@ -47,7 +47,7 @@ Branded Userbot » {__version__} ✨...
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [Branded](https://t.me/ALL_ABOUT_NARU).**""",
+🌷Powered By : [NARUJAAT](https://t.me/ALL_ABOUT_NARU).**""",
             disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(button),
