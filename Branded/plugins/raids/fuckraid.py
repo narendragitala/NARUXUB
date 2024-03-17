@@ -28,7 +28,7 @@ async def add_fuck_raid(client, message):
         fraid = await add_fuckraid_user(user_id)
         if fraid:
             return await aux.edit(
-                "**🤖 Successfully Added Reply Raid On This User.**"
+                "**🤖 MAA CHUD GE BETA TERI AB.**"
             )
         return await aux.edit(
             "**🤖 Hey, Reply Raid Already Active On This User❗**"
@@ -66,7 +66,7 @@ async def del_fuck_raid(client, message):
         fraid = await del_fuckraid_user(user_id)
         if fraid:
             return await aux.edit(
-                "**🤖 Successfully Removed Reply Raid From This User.**"
+                "**🤖 MAA CHUD GE BETA TERA AB.**"
             )
         return await aux.edit(
             "**🤖 Hey, Reply Raid Not Active On This User❗**"
